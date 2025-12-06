@@ -15,7 +15,7 @@ public class personal_Info {
 
     }
     static String getName(String name){
-        // the variable accept integer number. I tried, but I could not handle it
+        // the variable accept integer number. I tried, but I could not handle it. while loop by chatGPT
         while (true) {
             System.out.println("Enter your name: ");
             name = scanner.nextLine();
